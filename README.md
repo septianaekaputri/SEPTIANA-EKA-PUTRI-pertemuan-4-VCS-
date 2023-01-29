@@ -128,15 +128,18 @@ ________________________________________________________________________________
 
   - Setelah sudah dapat dipastikan benar-benar tersimpan. Langkah selanjutnya adalah membuka kembali App Gitbash dan mengetikan syntax: *'git add .'*
   
-![9](https://user-images.githubusercontent.com/72906579/96366945-fe952d80-1174-11eb-9a24-c10601901933.png)
+<img width="428" alt="19" src="https://user-images.githubusercontent.com/123891182/215344942-110d1c8a-67df-4139-abdf-fd24e62769dd.png">
+
 
   - Jika sudah, langkah berikutnya kita akan melakukan *commit*. Yang dimana fungsi commit itu sendiri adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak terjadi perubahan pada remote repository. Caranya dengan mengetikan syntax: *'git commit "Update README.md'*.
   
-![10](https://user-images.githubusercontent.com/72906579/96367987-415a0400-117b-11eb-8419-231fd0855537.png)
+<img width="427" alt="20" src="https://user-images.githubusercontent.com/123891182/215345021-f3c11c56-538b-494a-9b89-a0e264792bbd.png">
+
 
   - Setelah git commit selesai di lakukan. Untuk saat ini kita akan melakuka Git Push, yang dimana arti Git Push itu sendiri berfungsi untuk mengirimkan perubahan file yang telah di commit ke remote repository. Kalian hanya perlu mengetikan syntax: *'git push'*.
   
-![11](https://user-images.githubusercontent.com/72906579/96367990-4323c780-117b-11eb-877a-cae54ba73aa4.png)
+<img width="431" alt="21" src="https://user-images.githubusercontent.com/123891182/215345095-5d7753ab-a4e7-4d7e-9ca9-c93da1800357.png">
+
 
 JIKA SEMUA PROSES DIATAS SUDAH DILAKUKAN SEMUA TANPA ADA YANG TERLEWAT. KALIAN BISA LANGSUNG MELIHAT ATAU MENGECEK PERUBAHAN REPOSITORY YANG TELAH DI COMMIT DAN DI PUSH DARI REMOTE DENGAN CARA MEMBUKANYA PADA GITHUB KALIAN SENDIRI.
 
